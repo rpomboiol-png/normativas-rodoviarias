@@ -1,0 +1,18 @@
+{
+  "version": "v4",
+  "country": "Portugal",
+  "chapters": 9,
+  "subsections": 109,
+  "subsections_per_chapter": {
+    "mob_trz_ica_pt_0_index": 0,
+    "mob_trz_ica_1_introducao": 3,
+    "mob_trz_ica_2_elementos_basicos": 17,
+    "mob_trz_ica_3_geometria": 89,
+    "mob_trz_ica_4_anexo_i-siglas_e_abreviaturas": 0,
+    "mob_trz_ica_5_anexo_ii-terminologia": 0,
+    "mob_trz_ica_6_anexo_iii-sistema_de_sinalizacao_de_curvas": 0,
+    "mob_trz_ica_7_bibliografia": 0,
+    "mob_trz_ica_7_notas": 0
+  },
+  "nested_navigation": true
+}

@@ -1,0 +1,63 @@
+{
+  "documents": 9,
+  "images": 81,
+  "image_refs": 0,
+  "nav_titles": [
+    "ÍNDICE",
+    "I – INTRODUÇÃO",
+    "II - ELEMENTOS BÁSICOS",
+    "III - GEOMETRIA",
+    "SIGLAS E ABREVIATURAS",
+    "TERMINOLOGIA",
+    "SISTEMA DE SINALIZAÇÃO DE CURVAS EM FUNÇÃO DA CLASSE DE HOMOGENEIDADE",
+    "BIBLIOGRAFIA",
+    "NOTAS"
+  ],
+  "footer_sequence": [
+    [
+      null,
+      "ÍNDICE",
+      "I – INTRODUÇÃO"
+    ],
+    [
+      "ÍNDICE",
+      "I – INTRODUÇÃO",
+      "II - ELEMENTOS BÁSICOS"
+    ],
+    [
+      "I – INTRODUÇÃO",
+      "II - ELEMENTOS BÁSICOS",
+      "III - GEOMETRIA"
+    ],
+    [
+      "II - ELEMENTOS BÁSICOS",
+      "III - GEOMETRIA",
+      "SIGLAS E ABREVIATURAS"
+    ],
+    [
+      "III - GEOMETRIA",
+      "SIGLAS E ABREVIATURAS",
+      "TERMINOLOGIA"
+    ],
+    [
+      "SIGLAS E ABREVIATURAS",
+      "TERMINOLOGIA",
+      "SISTEMA DE SINALIZAÇÃO DE CURVAS EM FUNÇÃO DA CLASSE DE HOMOGENEIDADE"
+    ],
+    [
+      "TERMINOLOGIA",
+      "SISTEMA DE SINALIZAÇÃO DE CURVAS EM FUNÇÃO DA CLASSE DE HOMOGENEIDADE",
+      "BIBLIOGRAFIA"
+    ],
+    [
+      "SISTEMA DE SINALIZAÇÃO DE CURVAS EM FUNÇÃO DA CLASSE DE HOMOGENEIDADE",
+      "BIBLIOGRAFIA",
+      "NOTAS"
+    ],
+    [
+      "BIBLIOGRAFIA",
+      "NOTAS",
+      null
+    ]
+  ]
+}
